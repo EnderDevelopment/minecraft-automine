@@ -1,0 +1,10 @@
+name: AutoMiner
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin for auto-mining with a diamond pickaxe
+api-version: "1.21"
+commands:
+  automine:
+    description: Toggle auto-mining
+    usage: /automine
